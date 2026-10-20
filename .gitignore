@@ -1,0 +1,6 @@
+# Game archives, private saves and build output
+tools/
+*.sav
+*.bak
+*.exe
+*.zip

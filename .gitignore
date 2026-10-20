@@ -1,6 +1,31 @@
-# Game archives, private saves and build output
-tools/
-*.sav
-*.bak
+# Local binaries and release output
 *.exe
 *.zip
+*.zip.sha256
+*.pdb
+bin/
+obj/
+_publish/
+
+# Game archives, extracted assets, private saves, analysis and local reports
+tools/
+item-catalogue/
+*.sav
+*.bak
+*.ucas
+*.utoc
+*.pak
+*.uasset
+*.uexp
+*.ubulk
+test-results*.txt
+ui-test-results.txt
+editor-*-preview.png
+save-comparison.md
+save-field-inspection.txt
+inspect_fields.py
+compare_saves.py
+extract_catalogue.py
+build_catalogue.py
+__pycache__/
+.vs/

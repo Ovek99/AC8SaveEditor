@@ -1,0 +1,8 @@
+WARNING: DLC unlocks do not work.
+
+Loading an edited save may cause the game to wipe your save data.
+Make a separate manual backup before editing. Do not rely solely on the
+editor's automatic backups. Use at your own risk.
+
+Relocking items is not an exact undo or a guaranteed save-repair method.
+Restore a pre-edit backup to recover the original state.
